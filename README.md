@@ -16,5 +16,5 @@ Custom Rich Presence For Discord
 <br/><br/>
 I wrote on index.js. You can check and learn if you have a problem let join my Discord Server. Discord Server : https://discord.gg/F5BkwBSJXh
 
-# I did with my friend this project.
+# Other Users:
 [Luxotick](https://github.com/Luxotick) [Sponsor]
